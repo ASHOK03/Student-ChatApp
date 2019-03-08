@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701719087717",
+    "firebase_url": "https://studentchat-ed912.firebaseio.com",
+    "project_id": "studentchat-ed912",
+    "storage_bucket": "studentchat-ed912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701719087717:android:2dc74dcf45bda9a2",
+        "android_client_info": {
+          "package_name": "com.chatapp.android.studentchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701719087717-anvua8a05bea7p1h5ogv905kf0vo3oct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbRs2CThWvAFpKKlOCOjqk7-eXbmxlO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
